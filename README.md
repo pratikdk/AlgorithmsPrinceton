@@ -1,2 +1,2 @@
-# AlgorithmsPrinceton
-Princeton University Algorithm Assignments, My implementations
+# Algorithm Design Implementations
+Princeton University Algorithm Assignments on coursera
